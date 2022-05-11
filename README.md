@@ -1,5 +1,5 @@
 ﻿# Crear Tu Primer Registro Completo.
- ![Captura de pantalla 2022-05-11 165828](https://user-images.githubusercontent.com/101652978/167946839-98b80fc5-2ba2-4253-adf7-ff01f5ed670b.png
+ ![Captura de pantalla 2022-05-11 165828](https://user-images.githubusercontent.com/101652978/167947259-39b9fb29-346a-49c0-9594-2b791ba97d24.png)
 
 VALIDAR QUE NO SE PERMITAN DESCRIPCIONES DE ROLES DUPLICADAS. ejemplo: no pueden haber 2 roles de administrador. 
 

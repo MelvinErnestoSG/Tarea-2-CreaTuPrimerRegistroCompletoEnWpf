@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea-2-CreaTuPrimerRegistroCompletoEnWpf", "Tarea-2-CreaTuPrimerRegistroCompletoEnWpf.csproj", "{D473B52C-FE66-4B79-B83B-FF02B37E0B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D473B52C-FE66-4B79-B83B-FF02B37E0B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D473B52C-FE66-4B79-B83B-FF02B37E0B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D473B52C-FE66-4B79-B83B-FF02B37E0B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D473B52C-FE66-4B79-B83B-FF02B37E0B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {430DE12D-8FF9-461E-A432-043FDFC71E0C}
+	EndGlobalSection
+EndGlobal
